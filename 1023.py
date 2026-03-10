@@ -10,5 +10,4 @@ while i < Ncasas:
     moradores = int(moradores)
     consumo = int(consumo)
     casas[i] =  (moradores, math.floor(consumo / moradores))
-    
     i += 1
