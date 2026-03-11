@@ -13,4 +13,7 @@ while i < Ntestes:
         mensagem_final += chr(nova_letra)
         palavras[i] = mensagem_final
     i += 1
-print(palavras)
+M = 0
+while M < len(palavras):
+    print(palavras[M])
+    M += 1
