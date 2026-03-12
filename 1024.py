@@ -1,0 +1,1 @@
+Nteste = int(input())
